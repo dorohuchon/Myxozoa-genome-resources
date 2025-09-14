@@ -8,7 +8,7 @@ It is unlikely that this is a complete list so if I am missing something, or if 
 Contact: email: huchond @ tauex.tau.ac.il
 
 <br><br>
-Current number of species: 102<br>Last updated: 14 Sept 2025
+Current number of species: 3<br>Last updated: 14 Sept 2025
 <br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Endocnidozoa](#endocnidozoa)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Myxozoa](#myxozoa)<br>
