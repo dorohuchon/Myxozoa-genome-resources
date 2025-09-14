@@ -58,11 +58,13 @@ Current number of species: 102<br>Last updated: 14 Sept 2025
 ##### Kudoa
 ###### *Kudoa neothunni*
 <a href='[https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_964304625.1/]'></a>- [Genome Assembly](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_964304625.1/)		Publication: Webber, et al.		 DOI: [10.1093/g3journal/jkaf061]([https://doi.org/10.1093/g3journal/jkaf061])
-<a href='[https://github.com/CobiontID/Kudoa_genomes/tree/main/gene_annotations]'></a>- [Predicted Genes]https://github.com/CobiontID/Kudoa_genomes/tree/main/gene_annotations.		Webber, et al.		 DOI: [10.1093/g3journal/jkaf061]([https://doi.org/10.1093/g3journal/jkaf061])
+
+<a href='[https://github.com/CobiontID/Kudoa_genomes/tree/main/gene_annotations]'></a>- [Predicted Genes](https://github.com/CobiontID/Kudoa_genomes/tree/main/gene_annotations)		Publication: Webber, et al.		 DOI: [10.1093/g3journal/jkaf061]([https://doi.org/10.1093/g3journal/jkaf061])
 
 
 <hr class='Species'>
+
 # References
-> **Guo Q.**, Atkinson S.D., Xiao B. et al. (2022) A myxozoan genome reveals mosaic evolution in a parasitic cnidarian. BMC Biol 20, 51 . https://doi.org/10.1186/s12915-022-01249-8
-> **Yahalomi D.**, Atkinson S.D., Neuhof M., Huchon D. (2020) A cnidarian parasite of salmon (Myxozoa: Henneguya) lacks a mitochondrial genome. PNAS 117 (10), pp. 5358–5363. DOI: 10.1073/pnas.1909907117
-> **Weber C.C.**, Paulini M., Blaxter M.L., Wellcome Sanger Institute Tree of Life Management, Samples and Laboratory team, Wellcome Sanger Institute Tree of Life Core Informatics team (2025) Myxozoan parasite genomes assembled from contaminated host data reveal extensive gene order conservation and rapid sequence evolution. G3 Genes|Genomes|Genetics, 15(7):jkaf061. https://doi.org/10.1093/g3journal/jkaf061
+> **Guo Q.**, Atkinson S.D., Xiao B. et al. (2022) A myxozoan genome reveals mosaic evolution in a parasitic cnidarian. BMC Biol 20, 51 . https://doi.org/10.1186/s12915-022-01249-8.<br>
+> **Yahalomi D.**, Atkinson S.D., Neuhof M., Huchon D. (2020) A cnidarian parasite of salmon (Myxozoa: Henneguya) lacks a mitochondrial genome. PNAS 117 (10), pp. 5358–5363. DOI: 10.1073/pnas.1909907117.<br>
+> **Weber C.C.**, Paulini M., Blaxter M.L., Wellcome Sanger Institute Tree of Life Management, Samples and Laboratory team, Wellcome Sanger Institute Tree of Life Core Informatics team (2025) Myxozoan parasite genomes assembled from contaminated host data reveal extensive gene order conservation and rapid sequence evolution. G3 Genes|Genomes|Genetics, 15(7):jkaf061. https://doi.org/10.1093/g3journal/jkaf061.<br>
