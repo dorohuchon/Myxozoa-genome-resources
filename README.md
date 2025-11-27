@@ -28,7 +28,7 @@ Current number of species: 3<br>Last updated: 14 Sept 2025
 ## Myxozoa
 ### Myxosporea
 #### Freshwater Myxozoa
-##### Henneguya
+##### _Henneguya_
 ###### *Henneguya salminicola*
 
 <a href='https://www.ncbi.nlm.nih.gov/bioproject/PRJNA485580'></a>- [Genome Assembly](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA485580)		Publication: Yahalomi, et al.		 DOI: [10.1073/pnas.1909907117](https://doi.org/10.1073/pnas.1909907117)
@@ -37,7 +37,7 @@ Current number of species: 3<br>Last updated: 14 Sept 2025
 
 <hr class='Species'>
 
-##### Myxobolus
+##### _Myxobolus_
 ###### *Myxobolus honghuensis*
 
 <a href='https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/INLEPM'></a>- [Genome Assembly](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/INLEPM)		Publication: Guo, et al.		 DOI: [10.1186/s12915-022-01249-8](https://doi.org/10.1186/s12915-022-01249-8)
@@ -55,7 +55,7 @@ Current number of species: 3<br>Last updated: 14 Sept 2025
 <hr class='Species'>
 
 #### Marine Myxozoa
-##### Kudoa
+##### _Kudoa_
 ###### *Kudoa neothunni*
 <a href='[https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_964304625.1/]'></a>- [Genome Assembly](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_964304625.1/)		Publication: Webber, et al.		 DOI: [10.1093/g3journal/jkaf061]([https://doi.org/10.1093/g3journal/jkaf061])
 
