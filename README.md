@@ -33,7 +33,7 @@ Current number of species: 3<br>Last updated: 14 Sept 2025
 
 | Database\Accession  | Bioproject | Genome assembly + annotation | Transcriptome assembly | Mitochondrial genome | rRNA cluster |
 | ------------- | ------------- |------------- |------------- |------------- |------------- |
-| NCBI | PRJNA485580 | GCA_009887335.1 | GHBP00000000.1 | lost | OY756916 |
+| NCBI | PRJNA485580 | <a href='https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_009887335'></a>[GCA_009887335](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_009887335) | <a href='https://www.ncbi.nlm.nih.gov/nuccore/GHBP01000000'></a>- [GHBP00000000](https://www.ncbi.nlm.nih.gov/nuccore/GHBP01000000) | lost | <a href='https://www.ncbi.nlm.nih.gov/nuccore/OY756916'></a>- [OY756916](https://www.ncbi.nlm.nih.gov/nuccore/OY756916) |
 <br>
 
 <a href='https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_009887335'></a>- [Genome Assembly](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_009887335)		Publication: Yahalomi, et al.	2020	 DOI: [10.1073/pnas.1909907117](https://doi.org/10.1073/pnas.1909907117)
