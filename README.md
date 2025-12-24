@@ -31,12 +31,13 @@ Current number of species: 3<br>Last updated: 14 Sept 2025
 ##### _Henneguya_
 ###### *Henneguya salminicola*
 
-| Species  | Bioproject | Genome assembly + annotation | Transcriptome assembly |
-| ------------- | ------------- |------------- |------------- |
-| Henneguya salminicola  | PRJNA485580 | GCA_009887335.1 | GHBP00000000.1 |
+| Database\Accession  | Bioproject | Genome assembly + annotation | Transcriptome assembly | Mitochondrial genome | rRNA cluster |
+| ------------- | ------------- |------------- |------------- |------------- |------------- |
+| NCBI  | PRJNA485580 | GCA_009887335.1 | GHBP00000000.1 | lost | OY756916 |
 <br>
 
 <a href='https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_009887335.1'></a>- [Genome Assembly](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_009887335.1)		Publication: Yahalomi, et al.		 DOI: [10.1073/pnas.1909907117](https://doi.org/10.1073/pnas.1909907117)
+<a href='https://www.ncbi.nlm.nih.gov/nuccore/1797455125'></a>- [Transcriptome Assembly](https://www.ncbi.nlm.nih.gov/nuccore/1797455125)		Publication: Yahalomi, et al.		 DOI: [10.1073/pnas.1909907117](https://doi.org/10.1073/pnas.1909907117)
 
 **note this species has lost its mitochondrial genome** 
 
@@ -45,11 +46,17 @@ Current number of species: 3<br>Last updated: 14 Sept 2025
 ##### _Myxobolus_
 ###### *Myxobolus honghuensis*
 
+| Database\Accession  | Bioproject | Genome assembly + annotation | Transcriptome assembly | Mitochondrial genome | rRNA cluster |
+| ------------- | ------------- |------------- |------------- |------------- |------------- |
+| NCBI  | --- | GCA_009887335.1 | GHBP00000000.1 |GHBP00000000.1 |------------- |
+| NCBI  | PRJNA927338 | GCA_009887335.1 | GHBP00000000.1 | NC_086770 / OY743234 |  OY751525 |
+
 <a href='https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/INLEPM'></a>- [Genome Assembly](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/INLEPM)		Publication: Guo, et al.		 DOI: [10.1186/s12915-022-01249-8](https://doi.org/10.1186/s12915-022-01249-8)
 
 <a href='https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/INLEPM'></a>- [Predicted Genes](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/INLEPM)		Publication: Guo, et al.		 DOI: [10.1186/s12915-022-01249-8](https://doi.org/10.1186/s12915-022-01249-8)
 
 <a href='https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/INLEPM'></a>- [Predicted Proteins](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/INLEPM)		Publication: Guo, et al.		 DOI: [10.1186/s12915-022-01249-8](https://doi.org/10.1186/s12915-022-01249-8)
+<a href='https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/INLEPM'></a>- [Mitochondrial genome](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/INLEPM)		Publication: Guo, et al.		 DOI: [10.1186/s12915-022-01249-8](https://doi.org/10.1186/s12915-022-01249-8)
 
 <hr class='Species'>
 
