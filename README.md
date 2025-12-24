@@ -15,7 +15,7 @@ Current number of species: 3<br>Last updated: 14 Sept 2025
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Myxosporea](#Myxosporea)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Freshwater Myxozoa](#Freshwater-Myxozoa)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[_Henneguya_](#henneguya)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Henneguya salminicola](#henneguya-salminicola)* (Genome Assembly, Annotation)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Henneguya salminicola](#henneguya-salminicola)* (Genome Assembly+Annotation, transcriptome assembly)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[_Myxobolus_](#myxobolus)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Myxobolus honghuensis](#myxobolus-honghuensis)* (Genome Assembly, Predicted Genes, Predicted Proteins)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Myxobolus squamalis](#myxobolus-squamalis)* (Genome Assembly)<br>
@@ -33,11 +33,12 @@ Current number of species: 3<br>Last updated: 14 Sept 2025
 
 | Database\Accession  | Bioproject | Genome assembly + annotation | Transcriptome assembly | Mitochondrial genome | rRNA cluster |
 | ------------- | ------------- |------------- |------------- |------------- |------------- |
-| NCBI  | PRJNA485580 | GCA_009887335.1 | GHBP00000000.1 | lost | OY756916 |
+| NCBI | PRJNA485580 | GCA_009887335.1 | GHBP00000000.1 | lost | OY756916 |
 <br>
 
-<a href='https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_009887335.1'></a>- [Genome Assembly](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_009887335.1)		Publication: Yahalomi, et al.		 DOI: [10.1073/pnas.1909907117](https://doi.org/10.1073/pnas.1909907117)
-<a href='https://www.ncbi.nlm.nih.gov/nuccore/1797455125'></a>- [Transcriptome Assembly](https://www.ncbi.nlm.nih.gov/nuccore/1797455125)		Publication: Yahalomi, et al.		 DOI: [10.1073/pnas.1909907117](https://doi.org/10.1073/pnas.1909907117)
+<a href='https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_009887335'></a>- [Genome Assembly](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_009887335)		Publication: Yahalomi, et al.	2020	 DOI: [10.1073/pnas.1909907117](https://doi.org/10.1073/pnas.1909907117)
+<a href='https://www.ncbi.nlm.nih.gov/nuccore/GHBP01000000'></a>- [Transcriptome Assembly](https://www.ncbi.nlm.nih.gov/nuccore/GHBP01000000)		Publication: Yahalomi, et al.	2020	 DOI: [10.1073/pnas.1909907117](https://doi.org/10.1073/pnas.1909907117)
+<a href='https://www.ncbi.nlm.nih.gov/nuccore/OY756916'></a>- [rRNA cluster](https://www.ncbi.nlm.nih.gov/nuccore/OY756916)		Publication: Sandberg, et al.	2024	 DOI: [10.1186/s12864-024-10254-w](https://doi.org/10.1186/s12864-024-10254-w)
 
 **note this species has lost its mitochondrial genome** 
 
@@ -48,15 +49,22 @@ Current number of species: 3<br>Last updated: 14 Sept 2025
 
 | Database\Accession  | Bioproject | Genome assembly + annotation | Transcriptome assembly | Mitochondrial genome | rRNA cluster |
 | ------------- | ------------- |------------- |------------- |------------- |------------- |
-| NCBI  | --- | GCA_009887335.1 | GHBP00000000.1 |GHBP00000000.1 |------------- |
-| NCBI  | PRJNA927338 | GCA_009887335.1 | GHBP00000000.1 | NC_086770 / OY743234 |  OY751525 |
+| NCBI | PRJNA778632 / PRJNA779846 |  |  |  |  |
+| CNCB - NGDC | PRJCA007199 | GWHBFXM00000000 |  |  |  |
+|  Harvard Dataverse |  | assembly and annotation | | | |
+| NCBI | PRJNA779260 |  | GJPJ00000000 |  |  |
+| NCBI | PRJNA927338 |  |  | NC_086770 / OY743234 |  OY751525 |
 
-<a href='https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/INLEPM'></a>- [Genome Assembly](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/INLEPM)		Publication: Guo, et al.		 DOI: [10.1186/s12915-022-01249-8](https://doi.org/10.1186/s12915-022-01249-8)
+<a href='https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/INLEPM'></a>- [Genome Assembly](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/INLEPM)		Publication: Guo, et al. 2022  DOI: [10.1186/s12915-022-01249-8](https://doi.org/10.1186/s12915-022-01249-8)
 
-<a href='https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/INLEPM'></a>- [Predicted Genes](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/INLEPM)		Publication: Guo, et al.		 DOI: [10.1186/s12915-022-01249-8](https://doi.org/10.1186/s12915-022-01249-8)
+<a href='https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/INLEPM'></a>- [Predicted Genes](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/INLEPM)		Publication: Guo, et al.2022	DOI: [10.1186/s12915-022-01249-8](https://doi.org/10.1186/s12915-022-01249-8)
 
-<a href='https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/INLEPM'></a>- [Predicted Proteins](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/INLEPM)		Publication: Guo, et al.		 DOI: [10.1186/s12915-022-01249-8](https://doi.org/10.1186/s12915-022-01249-8)
-<a href='https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/INLEPM'></a>- [Mitochondrial genome](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/INLEPM)		Publication: Guo, et al.		 DOI: [10.1186/s12915-022-01249-8](https://doi.org/10.1186/s12915-022-01249-8)
+<a href='https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/INLEPM'></a>- [Predicted Proteins](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/INLEPM)		Publication: Guo, et al. 2022 	DOI: [10.1186/s12915-022-01249-8](https://doi.org/10.1186/s12915-022-01249-8)
+<a href='https://www.ncbi.nlm.nih.gov/nuccore/GJPJ00000000'></a>- [Transcriptome Assembly](https://www.ncbi.nlm.nih.gov/nuccore/GJPJ00000000)		Publication: Guo, et al. 2022 	DOI: [10.1186/s12915-022-01249-8](https://doi.org/10.1186/s12915-022-01249-8)
+<a href='https://www.ncbi.nlm.nih.gov/nuccore/OY743234'></a>- [Mitochondrial genome](https://www.ncbi.nlm.nih.gov/nuccore/OY743234)		Publication: Sandberg, et al.	2024	 DOI: [10.1186/s12864-024-10254-w](https://doi.org/10.1186/s12864-024-10254-w)
+<a href='https://www.ncbi.nlm.nih.gov/nuccore/OY751525'></a>- [rRNA cluster](https://www.ncbi.nlm.nih.gov/nuccore/OY751525)		Publication: Sandberg, et al.	2024	 DOI: [10.1186/s12864-024-10254-w](https://doi.org/10.1186/s12864-024-10254-w)
+
+**Note: The raw data of Guo et al. 2022 are deposited in NCBI but not the latest assembly!!! ** 
 
 <hr class='Species'>
 
