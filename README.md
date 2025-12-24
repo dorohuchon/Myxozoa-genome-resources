@@ -9,17 +9,17 @@ It is unlikely that this is a complete list so if I am missing something, or if 
 Contact: email: huchond @ tauex.tau.ac.il
 
 <br><br>
-Current number of species: 3<br>Last updated: 14 Sept 2025
+Current number of species: 3<br>Last updated: 25 Dec 2025
 <br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Endocnidozoa](#endocnidozoa)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Myxozoa](#myxozoa)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Myxosporea](#Myxosporea)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Freshwater Myxozoa](#Freshwater-Myxozoa)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[_Henneguya_](#henneguya)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Henneguya salminicola](#henneguya-salminicola)* (Genome Assembly+Annotation, transcriptome assembly)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Henneguya salminicola](#henneguya-salminicola)* (Genome Assembly+Annotation, Transcriptome assembly, rRNA cluster)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[_Myxobolus_](#myxobolus)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Myxobolus honghuensis](#myxobolus-honghuensis)* (Genome Assembly, Predicted Genes, Predicted Proteins)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Myxobolus squamalis](#myxobolus-squamalis)* (Genome Assembly)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Myxobolus honghuensis](#myxobolus-honghuensis)* (Genome Assembly, Annotation, Predicted Proteins, Transcriptome assembly, Mitochondrial genome, rRNA cluster)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Myxobolus rasmusseni](#myxobolus-rasmusseni)* (Genome Assembly, Annotation, Predicted Proteins, Mitochondrial genome)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Marine Myxozoa](#Marine-Myxozoa)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[_Kudoa_](#kudoa)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Kudoa neothunni](#kudoa-neothunni)* (Genome Assembly, Predicted Genes, Predicted Proteins)<br>
@@ -31,6 +31,8 @@ Current number of species: 3<br>Last updated: 14 Sept 2025
 #### Freshwater Myxozoa
 ##### _Henneguya_
 ###### *Henneguya salminicola*
+
+**note the PacBio data is in progress** 
 
 | Database\Accession  | Bioproject | Genome assembly + annotation | Transcriptome assembly | Mitochondrial genome | rRNA cluster |
 | ------------- | ------------- |------------- |------------- |------------- |------------- |
@@ -61,7 +63,7 @@ Current number of species: 3<br>Last updated: 14 Sept 2025
 
 <a href='https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/INLEPM'></a>- [Genome Assembly](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/INLEPM)		Publication: Guo, et al. 2022  DOI: [10.1186/s12915-022-01249-8](https://doi.org/10.1186/s12915-022-01249-8)
 
-<a href='https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/INLEPM'></a>- [Predicted Genes](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/INLEPM)		Publication: Guo, et al.2022	DOI: [10.1186/s12915-022-01249-8](https://doi.org/10.1186/s12915-022-01249-8)
+<a href='https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/INLEPM'></a>- [Annotation](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/INLEPM)		Publication: Guo, et al.2022	DOI: [10.1186/s12915-022-01249-8](https://doi.org/10.1186/s12915-022-01249-8)
 
 <a href='https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/INLEPM'></a>- [Predicted Proteins](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/INLEPM)		Publication: Guo, et al. 2022 	DOI: [10.1186/s12915-022-01249-8](https://doi.org/10.1186/s12915-022-01249-8)
 
@@ -76,9 +78,14 @@ Current number of species: 3<br>Last updated: 14 Sept 2025
 
 <hr class='Species'>
 
-###### *Myxobolus squamalis*
+###### *Myxobolus rasmusseni*
 
-<a href='https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA485581'></a>- [Genome Assembly](https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA485581)		Publication: Yahalomi, et al.		 DOI: [10.1073/pnas.1909907117](https://doi.org/10.1073/pnas.1909907117)
+| Database\Accession  | Bioproject | Genome assembly | Annotation | Transcriptome assembly | Mitochondrial genome | rRNA cluster |
+| ------------- | ------------- |------------- |------------- |------------- |------------- |------------- |
+| NCBI | PRJNA778632 / [PRJNA779846](https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA485581) | [GCA_041296195.1](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_041296195.1/) |  |  |  |  |
+
+
+<a href='https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA485581'></a>- [Genome Assembly]([https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA485581](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_041296195.1/))		Publication: Yahalomi, et al.		 DOI: [10.1073/pnas.1909907117](https://doi.org/10.1073/pnas.1909907117)
 
 <hr class='Species'>
 
@@ -91,8 +98,3 @@ Current number of species: 3<br>Last updated: 14 Sept 2025
 
 
 <hr class='Species'>
-
-# References
-> **Guo Q.**, Atkinson S.D., Xiao B. et al. (2022) A myxozoan genome reveals mosaic evolution in a parasitic cnidarian. BMC Biol 20, 51 . https://doi.org/10.1186/s12915-022-01249-8.<br>
-> **Yahalomi D.**, Atkinson S.D., Neuhof M., Huchon D. (2020) A cnidarian parasite of salmon (Myxozoa: Henneguya) lacks a mitochondrial genome. PNAS 117 (10), pp. 5358–5363. DOI: 10.1073/pnas.1909907117.<br>
-> **Weber C.C.**, Paulini M., Blaxter M.L., Wellcome Sanger Institute Tree of Life Management, Samples and Laboratory team, Wellcome Sanger Institute Tree of Life Core Informatics team (2025) Myxozoan parasite genomes assembled from contaminated host data reveal extensive gene order conservation and rapid sequence evolution. G3 Genes|Genomes|Genetics, 15(7):jkaf061. https://doi.org/10.1093/g3journal/jkaf061.<br>
