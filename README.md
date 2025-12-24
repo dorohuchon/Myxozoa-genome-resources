@@ -51,7 +51,7 @@ Current number of species: 3<br>Last updated: 14 Sept 2025
 | ------------- | ------------- |------------- |------------- |------------- |------------- |
 | NCBI | PRJNA778632 / PRJNA779846 |  |  |  |  |
 | CNCB - NGDC | PRJCA007199 | <a href='https://ngdc.cncb.ac.cn/gwh/Assembly/23311/show'></a>[GWHBFXM00000000](https://ngdc.cncb.ac.cn/gwh/Assembly/23311/show) |  |  |  |
-|  Harvard Dataverse |  | <a href='https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/INLEPM'></a>[Genome Assembly and Annotation](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/INLEPM) | | | |
+|  Harvard Dataverse |  | <a href='https://doi.org/10.7910/DVN/INLEPM'></a>[Genome Assembly and Annotation](https://doi.org/10.7910/DVN/INLEPM) | | | |
 | NCBI | PRJNA779260 |  | <a href='https://www.ncbi.nlm.nih.gov/nuccore/GJPJ00000000'></a>[GJPJ00000000](https://www.ncbi.nlm.nih.gov/nuccore/GJPJ00000000) |  |  |
 | NCBI | PRJNA927338 |  |  | <a href='https://www.ncbi.nlm.nih.gov/nuccore/OY743234'></a>[OY743234](https://www.ncbi.nlm.nih.gov/nuccore/OY743234)/<a href='https://www.ncbi.nlm.nih.gov/nuccore/NC_086770'></a>[NC_086770](https://www.ncbi.nlm.nih.gov/nuccore/NC_086770) |  <a href='https://www.ncbi.nlm.nih.gov/nuccore/OY751525'></a>[OY751525](https://www.ncbi.nlm.nih.gov/nuccore/OY751525) |
 
