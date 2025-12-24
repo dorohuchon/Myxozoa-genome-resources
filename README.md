@@ -36,9 +36,12 @@ Current number of species: 3<br>Last updated: 14 Sept 2025
 | NCBI | [PRJNA485580](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA485580) | <a href='https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_009887335'></a>[GCA_009887335](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_009887335) | <a href='https://www.ncbi.nlm.nih.gov/nuccore/GHBP01000000'></a>[GHBP00000000](https://www.ncbi.nlm.nih.gov/nuccore/GHBP01000000) | lost | <a href='https://www.ncbi.nlm.nih.gov/nuccore/OY756916'></a>[OY756916](https://www.ncbi.nlm.nih.gov/nuccore/OY756916) |
 <br>
 
-<a href='https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_009887335'></a>- [Genome Assembly](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_009887335)		Publication: Yahalomi, et al.	2020	 DOI: [10.1073/pnas.1909907117](https://doi.org/10.1073/pnas.1909907117)
+<a href='https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_009887335'></a>- [Genome Assembly and annotation](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_009887335)		Publication: Yahalomi, et al.	2020	 DOI: [10.1073/pnas.1909907117](https://doi.org/10.1073/pnas.1909907117)
+
 <a href='https://www.ncbi.nlm.nih.gov/nuccore/GHBP01000000'></a>- [Transcriptome Assembly](https://www.ncbi.nlm.nih.gov/nuccore/GHBP01000000)		Publication: Yahalomi, et al.	2020	 DOI: [10.1073/pnas.1909907117](https://doi.org/10.1073/pnas.1909907117)
+
 <a href='https://www.ncbi.nlm.nih.gov/nuccore/OY756916'></a>- [rRNA cluster](https://www.ncbi.nlm.nih.gov/nuccore/OY756916)		Publication: Sandberg, et al.	2024	 DOI: [10.1186/s12864-024-10254-w](https://doi.org/10.1186/s12864-024-10254-w)
+
 
 **note this species has lost its mitochondrial genome** 
 
@@ -47,13 +50,13 @@ Current number of species: 3<br>Last updated: 14 Sept 2025
 ##### _Myxobolus_
 ###### *Myxobolus honghuensis*
 
-| Database\Accession  | Bioproject | Genome assembly + annotation | Transcriptome assembly | Mitochondrial genome | rRNA cluster |
-| ------------- | ------------- |------------- |------------- |------------- |------------- |
-| NCBI | PRJNA778632 / PRJNA779846 |  |  |  |  |
-| CNCB - NGDC | PRJCA007199 | <a href='https://ngdc.cncb.ac.cn/gwh/Assembly/23311/show'></a>[GWHBFXM00000000](https://ngdc.cncb.ac.cn/gwh/Assembly/23311/show) |  |  |  |
-|  Harvard Dataverse |  | <a href='https://doi.org/10.7910/DVN/INLEPM'></a>[Genome Assembly and Annotation](https://doi.org/10.7910/DVN/INLEPM) | | | |
-| NCBI | PRJNA779260 |  | <a href='https://www.ncbi.nlm.nih.gov/nuccore/GJPJ00000000'></a>[GJPJ00000000](https://www.ncbi.nlm.nih.gov/nuccore/GJPJ00000000) |  |  |
-| NCBI | PRJNA927338 |  |  | <a href='https://www.ncbi.nlm.nih.gov/nuccore/OY743234'></a>[OY743234](https://www.ncbi.nlm.nih.gov/nuccore/OY743234)/<a href='https://www.ncbi.nlm.nih.gov/nuccore/NC_086770'></a>[NC_086770](https://www.ncbi.nlm.nih.gov/nuccore/NC_086770) |  <a href='https://www.ncbi.nlm.nih.gov/nuccore/OY751525'></a>[OY751525](https://www.ncbi.nlm.nih.gov/nuccore/OY751525) |
+| Database\Accession  | Bioproject | Genome assembly | Annotation | Transcriptome assembly | Mitochondrial genome | rRNA cluster |
+| ------------- | ------------- |------------- |------------- |------------- |------------- |------------- |
+| NCBI | PRJNA778632 / PRJNA779846 |  |  |  |  |  |
+| CNCB - NGDC | PRJCA007199 | <a href='https://ngdc.cncb.ac.cn/gwh/Assembly/23311/show'></a>[GWHBFXM00000000](https://ngdc.cncb.ac.cn/gwh/Assembly/23311/show) |  |  |  |  |
+|  Harvard Dataverse |  | | <a href='https://doi.org/10.7910/DVN/INLEPM'></a>[Genome Assembly and Annotation](https://doi.org/10.7910/DVN/INLEPM) | | | |
+| NCBI | PRJNA779260 |  |  | <a href='https://www.ncbi.nlm.nih.gov/nuccore/GJPJ00000000'></a>[GJPJ00000000](https://www.ncbi.nlm.nih.gov/nuccore/GJPJ00000000) |  |  |
+| NCBI | PRJNA927338 |   |  |  | <a href='https://www.ncbi.nlm.nih.gov/nuccore/OY743234'></a>[OY743234](https://www.ncbi.nlm.nih.gov/nuccore/OY743234)/<a href='https://www.ncbi.nlm.nih.gov/nuccore/NC_086770'></a>[NC_086770](https://www.ncbi.nlm.nih.gov/nuccore/NC_086770) |  <a href='https://www.ncbi.nlm.nih.gov/nuccore/OY751525'></a>[OY751525](https://www.ncbi.nlm.nih.gov/nuccore/OY751525) |
 
 <a href='https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/INLEPM'></a>- [Genome Assembly](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/INLEPM)		Publication: Guo, et al. 2022  DOI: [10.1186/s12915-022-01249-8](https://doi.org/10.1186/s12915-022-01249-8)
 
