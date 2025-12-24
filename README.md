@@ -35,7 +35,8 @@ Current number of species: 3<br>Last updated: 14 Sept 2025
 | ------------- | ------------- |------------- |------------- |
 | Henneguya salminicola  | PRJNA485580 | GCA_009887335.1 | GHBP00000000.1 |
 <br>
-<a href='https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_009887335.1/'></a>- [Genome Assembly](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_009887335.1/)		Publication: Yahalomi, et al.		 DOI: [10.1073/pnas.1909907117](https://doi.org/10.1073/pnas.1909907117)
+
+<a href='https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_009887335.1'></a>- [Genome Assembly](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_009887335.1)		Publication: Yahalomi, et al.		 DOI: [10.1073/pnas.1909907117](https://doi.org/10.1073/pnas.1909907117)
 
 **note this species has lost its mitochondrial genome** 
 
