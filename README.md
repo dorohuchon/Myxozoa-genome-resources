@@ -1,6 +1,7 @@
 # Myxozoa-genome-resources
 
-This is a collection of links to different myxozoan genomic datasets.  
+This is a collection of links to different myxozoan genomic datasets. 
+I only listed genomes sequenced with long reads (PacBio / Minion and _T. kitauei_ since it is a reference species.   
 It is unlikely that this is a complete list so if I am missing something, or if you want me to add your favorite myxo please let me know.
 <br><br>
 *Contributers:*
