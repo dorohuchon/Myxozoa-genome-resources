@@ -60,11 +60,15 @@ Current number of species: 3<br>Last updated: 14 Sept 2025
 <a href='https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/INLEPM'></a>- [Predicted Genes](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/INLEPM)		Publication: Guo, et al.2022	DOI: [10.1186/s12915-022-01249-8](https://doi.org/10.1186/s12915-022-01249-8)
 
 <a href='https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/INLEPM'></a>- [Predicted Proteins](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/INLEPM)		Publication: Guo, et al. 2022 	DOI: [10.1186/s12915-022-01249-8](https://doi.org/10.1186/s12915-022-01249-8)
+
 <a href='https://www.ncbi.nlm.nih.gov/nuccore/GJPJ00000000'></a>- [Transcriptome Assembly](https://www.ncbi.nlm.nih.gov/nuccore/GJPJ00000000)		Publication: Guo, et al. 2022 	DOI: [10.1186/s12915-022-01249-8](https://doi.org/10.1186/s12915-022-01249-8)
+
 <a href='https://www.ncbi.nlm.nih.gov/nuccore/OY743234'></a>- [Mitochondrial genome](https://www.ncbi.nlm.nih.gov/nuccore/OY743234)		Publication: Sandberg, et al.	2024	 DOI: [10.1186/s12864-024-10254-w](https://doi.org/10.1186/s12864-024-10254-w)
+
 <a href='https://www.ncbi.nlm.nih.gov/nuccore/OY751525'></a>- [rRNA cluster](https://www.ncbi.nlm.nih.gov/nuccore/OY751525)		Publication: Sandberg, et al.	2024	 DOI: [10.1186/s12864-024-10254-w](https://doi.org/10.1186/s12864-024-10254-w)
 
-**Note: The raw data of Guo et al. 2022 are deposited in NCBI but not the latest assembly!!! ** 
+**Note: The raw data of Guo et al. 2022 are deposited in NCBI but not the latest assembly!!!** 
+
 
 <hr class='Species'>
 
