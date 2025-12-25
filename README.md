@@ -18,8 +18,8 @@ Current number of species: 3<br>Last updated: 25 Dec 2025
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[_Henneguya_](#henneguya)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Henneguya salminicola](#henneguya-salminicola)* (Genome Assembly+Annotation, Transcriptome assembly, rRNA cluster)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[_Myxobolus_](#myxobolus)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Myxobolus honghuensis](#myxobolus-honghuensis)* (Genome Assembly, Annotation, Predicted Proteins, Transcriptome assembly, Mitochondrial genome, rRNA cluster)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Myxobolus rasmusseni](#myxobolus-rasmusseni)* (Genome Assembly, Annotation, Predicted Proteins, Mitochondrial genome)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Myxobolus honghuensis](#myxobolus-honghuensis)* (Genome Assembly, Annotation, Transcriptome assembly, Mitochondrial genome, rRNA cluster)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Myxobolus rasmusseni](#myxobolus-rasmusseni)* (Genome Assembly, Annotation, Mitochondrial genome)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Marine Myxozoa](#Marine-Myxozoa)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[_Kudoa_](#kudoa)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Kudoa neothunni](#kudoa-neothunni)* (Genome Assembly, Predicted Genes, Predicted Proteins)<br>
@@ -82,10 +82,14 @@ Current number of species: 3<br>Last updated: 25 Dec 2025
 
 | Database\Accession  | Bioproject | Genome assembly | Annotation | Transcriptome assembly | Mitochondrial genome | rRNA cluster |
 | ------------- | ------------- |------------- |------------- |------------- |------------- |------------- |
-| NCBI | [PRJNA1126311](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1126311) | [GCA_041296195](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_041296195/) |  |  |  |  |
+| NCBI | [PRJNA1126311](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1126311) | [GCA_041296195](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_041296195/) | <a href='https://osf.io/r3ecp/'></a>[Deposited in OSF](https://osf.io/r3ecp/) |  |  |  |
 
 
-<a href='https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_041296195'></a>- [Genome Assembly](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_041296195/)		Publication: Muthye, et al.	2024	 DOI: [10.1093/gbe/evae220](https://doi.org/doi: 10.1093/gbe/evae220)
+<a href='https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_041296195'></a>- [Genome Assembly](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_041296195/)		Publication: Muthye, et al.	2024	 DOI: [10.1093/gbe/evae220](https://doi.org/doi:10.1093/gbe/evae220)
+
+<a href='https://osf.io/r3ecp/'></a>[Annotation](https://osf.io/r3ecp/)		Publication: Muthye, et al.	2024	 DOI: [10.1093/gbe/evae220](https://doi.org/doi:10.1093/gbe/evae220)
+
+<a href='https://osf.io/r3ecp/'></a>[Predicted proteins](https://osf.io/r3ecp/)		Publication: Muthye, et al.	2024	 DOI: [10.1093/gbe/evae220](https://doi.org/doi:10.1093/gbe/evae220)
 
 <hr class='Species'>
 
