@@ -140,6 +140,7 @@ Current number of species: 6<br>Last updated: 25 Dec 2025
 
 <a href='[https://www.ncbi.nlm.nih.gov/nuccore/OZ199841/]'></a>- [Mitochondrial genome](https://www.ncbi.nlm.nih.gov/nuccore/OZ199841/)		Publication: Webber, et al.		 DOI: [10.1093/g3journal/jkaf061]([https://doi.org/10.1093/g3journal/jkaf061])
 
+**Note: the mitochondrial genome is not annotated** 
 <hr class='Species'>
 
 ###### *Kudoa sp. trachurus*
@@ -157,7 +158,7 @@ Current number of species: 6<br>Last updated: 25 Dec 2025
 
 <a href='[https://www.ncbi.nlm.nih.gov/nuccore/OZ195523/]'></a>- [Mitochondrial genome](https://www.ncbi.nlm.nih.gov/nuccore/OZ195523/)		Publication: Webber, et al.		 DOI: [10.1093/g3journal/jkaf061]([https://doi.org/10.1093/g3journal/jkaf061])
 
-
+**Note: the mitochondrial genome is not annotated** 
 <hr class='Species'>
 
 
