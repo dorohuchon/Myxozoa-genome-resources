@@ -1,11 +1,11 @@
 # Myxozoa-genome-resources
 
 This is a collection of links to different myxozoan genomic datasets. <br>
-I only listed genomes sequenced with long reads (PacBio / Minion) and _T. kitauei_ since it is a reference species.   
+I only listed genomes sequenced with long reads (PacBio / Minion), _T. kitauei_ since it is a reference species and my favorite species _H. salminicola_.   
 It is unlikely that this is a complete list so if I am missing something, or if you want me to add your favorite myxo please let me know.
 <br><br>
-*Contributers:*
-- Dorothee Huchon , 
+*Contributors:*
+- Dorothee Huchon, 
 Contact: email: huchond @ tauex.tau.ac.il
 
 <br><br>
@@ -21,11 +21,11 @@ Current number of species: 3<br>Last updated: 25 Dec 2025
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Myxobolus honghuensis](#myxobolus-honghuensis)* (Genome Assembly, Annotation, Transcriptome assembly, Mitochondrial genome, rRNA cluster)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Myxobolus rasmusseni](#myxobolus-rasmusseni)* (Genome Assembly, Annotation, Mitochondrial genome)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[_Thelohanellus_](#thelohanellus)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Thelohanellus kitauei](#thelohanellus-kitauei)* (Genome Assembly+Annotation, Transcriptome assembly, rRNA cluster)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Thelohanellus kitauei](#thelohanellus-kitauei)* (Genome Assembly+Annotation, Mitochondrial genome, rRNA cluster)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Marine Myxozoa](#Marine-Myxozoa)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[_Kudoa_](#kudoa)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Kudoa neothunni](#kudoa-neothunni)* (Genome Assembly, Predicted Genes, Predicted Proteins)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Kudoa neothunni](#kudoa-neothunni)* (Genome Assembly, Predicted Genes, Predicted Proteins)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Kudoa neothunni](#kudoa-neothunni)* (Genome Assembly, Annotation)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Kudoa sp. trachurus](#Kudoa-sp.-trachurus)* (Genome Assembly, Annotation)<br>
 
 <br><br>
 # Endocnidozoa
@@ -119,7 +119,7 @@ Current number of species: 3<br>Last updated: 25 Dec 2025
 
 <a href='https://www.ncbi.nlm.nih.gov/nuccore/OY751528'></a>- [rRNA cluster](https://www.ncbi.nlm.nih.gov/nuccore/OY751528)		Publication: Sandberg, et al.	2024	 DOI: [10.1186/s12864-024-10254-w](https://doi.org/10.1186/s12864-024-10254-w)
 
-
+<hr class='Species'>
 
 
 <br><br><br><br>
@@ -127,9 +127,29 @@ Current number of species: 3<br>Last updated: 25 Dec 2025
 #### Marine Myxozoa
 ##### _Kudoa_
 ###### *Kudoa neothunni*
+
+| Database\Accession  | Bioproject | Genome assembly | Annotation | Transcriptome assembly | Mitochondrial genome | rRNA cluster |
+| ------------- | ------------- |------------- |------------- |------------- |------------- |------------- |
+| NCBI | [PRJNA1126311](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1126311) | [GCA_041296195](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_041296195/) | <a href='[https://github.com/CobiontID/Kudoa_genomes/tree/main/gene_annotations]'></a>- [Deposited in Github](https://github.com/CobiontID/Kudoa_genomes/tree/main/gene_annotations) |  | Unpublished? |  |
+| NCBI | [PRJNA1126311](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1126311) | [GCA_041296195](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_041296195/) |  |  | Unpublished? |  |
+
 <a href='[https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_964304625.1/]'></a>- [Genome Assembly](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_964304625.1/)		Publication: Webber, et al.		 DOI: [10.1093/g3journal/jkaf061]([https://doi.org/10.1093/g3journal/jkaf061])
 
-<a href='[https://github.com/CobiontID/Kudoa_genomes/tree/main/gene_annotations]'></a>- [Predicted Genes](https://github.com/CobiontID/Kudoa_genomes/tree/main/gene_annotations)		Publication: Webber, et al.		 DOI: [10.1093/g3journal/jkaf061]([https://doi.org/10.1093/g3journal/jkaf061])
-
+<a href='[https://github.com/CobiontID/Kudoa_genomes/tree/main/gene_annotations]'></a>- [Annotation](https://github.com/CobiontID/Kudoa_genomes/tree/main/gene_annotations)		Publication: Webber, et al.		 DOI: [10.1093/g3journal/jkaf061]([https://doi.org/10.1093/g3journal/jkaf061])
 
 <hr class='Species'>
+
+###### *Kudoa sp. trachurus*
+
+| Database\Accession  | Bioproject | Genome assembly | Annotation | Transcriptome assembly | Mitochondrial genome | rRNA cluster |
+| ------------- | ------------- |------------- |------------- |------------- |------------- |------------- |
+| NCBI | [PRJNA1126311](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1126311) | [GCA_041296195](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_041296195/) | <a href='[https://github.com/CobiontID/Kudoa_genomes/tree/main/gene_annotations]'></a>- [Deposited in Github](https://github.com/CobiontID/Kudoa_genomes/tree/main/gene_annotations) |  | Unpublished? |  |
+| NCBI | [PRJNA1126311](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1126311) | [GCA_041296195](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_041296195/) |  |  | Unpublished? |  |
+
+<a href='[https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_964304625.1/]'></a>- [Genome Assembly](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_964304625.1/)		Publication: Webber, et al.		 DOI: [10.1093/g3journal/jkaf061]([https://doi.org/10.1093/g3journal/jkaf061])
+
+<a href='[https://github.com/CobiontID/Kudoa_genomes/tree/main/gene_annotations]'></a>- [Annotation](https://github.com/CobiontID/Kudoa_genomes/tree/main/gene_annotations)		Publication: Webber, et al.		 DOI: [10.1093/g3journal/jkaf061]([https://doi.org/10.1093/g3journal/jkaf061])
+
+<hr class='Species'>
+
+
