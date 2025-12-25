@@ -30,11 +30,11 @@ Current number of species: 6<br>Last updated: 25 Dec 2025
 
 <br><br>
 # Endocnidozoa
-## Myxozoa
-### Myxosporea
-#### Freshwater Myxozoa
-##### Myxobolidae
-###### _Henneguya_
+# Myxozoa
+## Myxosporea
+### Freshwater Myxozoa
+#### Myxobolidae
+##### _Henneguya_
 ###### *Henneguya salminicola*
 
 **Note: this is an Illumina assembly; the PacBio data is in progress** 
@@ -55,7 +55,7 @@ Current number of species: 6<br>Last updated: 25 Dec 2025
 
 <hr class='Species'>
 
-###### _Myxobolus_
+##### _Myxobolus_
 ###### *Myxobolus honghuensis*
 
 **Note: this assembly is based on PacBio reads**  
@@ -104,7 +104,7 @@ Current number of species: 6<br>Last updated: 25 Dec 2025
 
 <hr class='Species'>
 
-###### _Thelohanellus_
+##### _Thelohanellus_
 ###### *Thelohanellus kitauei*
 
 **Note: this assembly is based on Illumina+454 reads** 
@@ -126,8 +126,8 @@ Current number of species: 6<br>Last updated: 25 Dec 2025
 
 <br><br><br><br>
 
-#### Marine Myxozoa
-###### _Kudoa_
+### Marine Myxozoa
+##### _Kudoa_
 ###### *Kudoa neothunni*
 **Note: this assembly is based on PacBio and HiC reads**  
 
