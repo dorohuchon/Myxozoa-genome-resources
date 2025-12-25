@@ -1,7 +1,7 @@
 # Myxozoa-genome-resources
 
 This is a collection of links to different myxozoan genomic datasets. <br>
-I only listed genomes sequenced with long reads (PacBio / Minion), _T. kitauei_ since it is a reference species and my favorite species _H. salminicola_.   
+I only listed genomes sequenced with long reads (PacBio / Nanopore), _T. kitauei_ since it is a reference species and my favorite species _H. salminicola_.   
 It is unlikely that this is a complete list so if I am missing something, or if you want me to add your favorite myxo please let me know.
 <br><br>
 *Contributors:*
@@ -9,7 +9,7 @@ It is unlikely that this is a complete list so if I am missing something, or if 
 Contact: email: huchond @ tauex.tau.ac.il
 
 <br><br>
-Current number of species: 3<br>Last updated: 25 Dec 2025
+Current number of species: 6<br>Last updated: 25 Dec 2025
 <br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Endocnidozoa](#endocnidozoa)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Myxozoa](#myxozoa)<br>
@@ -127,28 +127,36 @@ Current number of species: 3<br>Last updated: 25 Dec 2025
 #### Marine Myxozoa
 ##### _Kudoa_
 ###### *Kudoa neothunni*
+**Note: this assembly is based on PacBio and HiC reads**  
 
 | Database\Accession  | Bioproject | Genome assembly | Annotation | Transcriptome assembly | Mitochondrial genome | rRNA cluster |
 | ------------- | ------------- |------------- |------------- |------------- |------------- |------------- |
-| NCBI | [PRJNA1126311](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1126311) | [GCA_041296195](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_041296195/) | <a href='[https://github.com/CobiontID/Kudoa_genomes/tree/main/gene_annotations]'></a>- [Deposited in Github](https://github.com/CobiontID/Kudoa_genomes/tree/main/gene_annotations) |  | Unpublished? |  |
-| NCBI | [PRJNA1126311](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1126311) | [GCA_041296195](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_041296195/) |  |  | Unpublished? |  |
+| NCBI | [PRJEB82086](https://www.ncbi.nlm.nih.gov/bioproject/PRJEB82086) Primary assembly| [GCA_964304625](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_964304625/) | <a href='[https://github.com/CobiontID/Kudoa_genomes/tree/main/gene_annotations]'></a>- [Deposited in Github](https://github.com/CobiontID/Kudoa_genomes/tree/main/gene_annotations) |  | <a href='https://www.ncbi.nlm.nih.gov/nuccore/OZ199841'></a>[OZ199841](https://www.ncbi.nlm.nih.gov/nuccore/OZ199841) |  |
+| NCBI | [PRJEB82087](https://www.ncbi.nlm.nih.gov/bioproject/PRJEB82087) Alternate assembly| [GCA_964304655](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_964304655/) |  |  |  |  |
 
-<a href='[https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_964304625.1/]'></a>- [Genome Assembly](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_964304625.1/)		Publication: Webber, et al.		 DOI: [10.1093/g3journal/jkaf061]([https://doi.org/10.1093/g3journal/jkaf061])
+<a href='[https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_964304625/]'></a>- [Genome Assembly](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_964304625/)		Publication: Webber, et al.		 DOI: [10.1093/g3journal/jkaf061]([https://doi.org/10.1093/g3journal/jkaf061])
 
 <a href='[https://github.com/CobiontID/Kudoa_genomes/tree/main/gene_annotations]'></a>- [Annotation](https://github.com/CobiontID/Kudoa_genomes/tree/main/gene_annotations)		Publication: Webber, et al.		 DOI: [10.1093/g3journal/jkaf061]([https://doi.org/10.1093/g3journal/jkaf061])
+
+<a href='[https://www.ncbi.nlm.nih.gov/nuccore/OZ199841/]'></a>- [Mitochondrial genome](https://www.ncbi.nlm.nih.gov/nuccore/OZ199841/)		Publication: Webber, et al.		 DOI: [10.1093/g3journal/jkaf061]([https://doi.org/10.1093/g3journal/jkaf061])
 
 <hr class='Species'>
 
 ###### *Kudoa sp. trachurus*
+**Note: this assembly is based on PacBio reads**  
 
 | Database\Accession  | Bioproject | Genome assembly | Annotation | Transcriptome assembly | Mitochondrial genome | rRNA cluster |
 | ------------- | ------------- |------------- |------------- |------------- |------------- |------------- |
-| NCBI | [PRJNA1126311](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1126311) | [GCA_041296195](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_041296195/) | <a href='[https://github.com/CobiontID/Kudoa_genomes/tree/main/gene_annotations]'></a>- [Deposited in Github](https://github.com/CobiontID/Kudoa_genomes/tree/main/gene_annotations) |  | Unpublished? |  |
-| NCBI | [PRJNA1126311](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1126311) | [GCA_041296195](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_041296195/) |  |  | Unpublished? |  |
+| NCBI | [PRJNA1126311](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1126311) Primary assembly| [GCA_964275015](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_964275015/) | <a href='[https://github.com/CobiontID/Kudoa_genomes/tree/main/gene_annotations]'></a>- [Deposited in Github](https://github.com/CobiontID/Kudoa_genomes/tree/main/gene_annotations) |  |  |  |
+| NCBI | [PRJNA1126311](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1126311) Alternate assembly| [GCA_964276805](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_964276805/) |  |  |  |  |
+| NCBI | [PRJEB81409](https://www.ncbi.nlm.nih.gov/bioproject/PRJEB81409) Mitochondrial assembly| [GCA_041296195](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_041296195/) |  |  | <a href='https://www.ncbi.nlm.nih.gov/nuccore/OZ195523'></a>[OZ195523](https://www.ncbi.nlm.nih.gov/nuccore/OZ195523) |  |
 
-<a href='[https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_964304625.1/]'></a>- [Genome Assembly](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_964304625.1/)		Publication: Webber, et al.		 DOI: [10.1093/g3journal/jkaf061]([https://doi.org/10.1093/g3journal/jkaf061])
+<a href='[https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_964275015/]'></a>- [Genome Assembly](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_964275015/)		Publication: Webber, et al.		 DOI: [10.1093/g3journal/jkaf061]([https://doi.org/10.1093/g3journal/jkaf061])
 
 <a href='[https://github.com/CobiontID/Kudoa_genomes/tree/main/gene_annotations]'></a>- [Annotation](https://github.com/CobiontID/Kudoa_genomes/tree/main/gene_annotations)		Publication: Webber, et al.		 DOI: [10.1093/g3journal/jkaf061]([https://doi.org/10.1093/g3journal/jkaf061])
+
+<a href='[https://www.ncbi.nlm.nih.gov/nuccore/OZ195523/]'></a>- [Mitochondrial genome](https://www.ncbi.nlm.nih.gov/nuccore/OZ195523/)		Publication: Webber, et al.		 DOI: [10.1093/g3journal/jkaf061]([https://doi.org/10.1093/g3journal/jkaf061])
+
 
 <hr class='Species'>
 
