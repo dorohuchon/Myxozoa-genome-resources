@@ -11,10 +11,11 @@ Contact: email: huchond @ tauex.tau.ac.il
 <br><br>
 Current number of species: 6<br>Last updated: 25 Dec 2025
 <br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Endocnidozoa](#endocnidozoa)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Myxozoa](#myxozoa)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Myxosporea](#Myxosporea)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Freshwater Myxozoa](#Freshwater-Myxozoa)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Endocnidozoa](#endocnidozoa)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Myxozoa](#myxozoa)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Myxosporea](#myxosporea)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Freshwater Myxozoa](#freshwater-myxozoa)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Myxobolidae](#myxobolidae)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[_Henneguya_](#henneguya)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Henneguya salminicola](#henneguya-salminicola)* (Genome Assembly+Annotation, Transcriptome assembly, rRNA cluster)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[_Myxobolus_](#myxobolus)<br>
@@ -22,7 +23,7 @@ Current number of species: 6<br>Last updated: 25 Dec 2025
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Myxobolus rasmusseni](#myxobolus-rasmusseni)* (Genome Assembly, Annotation, Mitochondrial genome)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[_Thelohanellus_](#thelohanellus)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Thelohanellus kitauei](#thelohanellus-kitauei)* (Genome Assembly+Annotation, Mitochondrial genome, rRNA cluster)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Marine Myxozoa](#Marine-Myxozoa)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Marine Myxozoa](#Marine-Myxozoa)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[_Kudoa_](#kudoa)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Kudoa neothunni](#kudoa-neothunni)* (Genome Assembly, Annotation)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Kudoa sp. trachurus](#kudoa-sp-trachurus)* (Genome Assembly, Annotation)<br>
@@ -32,8 +33,9 @@ Current number of species: 6<br>Last updated: 25 Dec 2025
 ## Myxozoa
 ### Myxosporea
 #### Freshwater Myxozoa
-##### _Henneguya_
-###### *Henneguya salminicola*
+##### Myxobolidae
+###### _Henneguya_
+####### *Henneguya salminicola*
 
 **Note: this is an Illumina assembly; the PacBio data is in progress** 
 
@@ -53,8 +55,8 @@ Current number of species: 6<br>Last updated: 25 Dec 2025
 
 <hr class='Species'>
 
-##### _Myxobolus_
-###### *Myxobolus honghuensis*
+######_Myxobolus_
+####### *Myxobolus honghuensis*
 
 **Note: this assembly is based on PacBio reads**  
 
@@ -83,7 +85,7 @@ Current number of species: 6<br>Last updated: 25 Dec 2025
 
 <hr class='Species'>
 
-###### *Myxobolus rasmusseni*
+####### *Myxobolus rasmusseni*
 
 **Note: this assembly is based on Nanopore reads**  
 
@@ -102,8 +104,8 @@ Current number of species: 6<br>Last updated: 25 Dec 2025
 
 <hr class='Species'>
 
-##### _Thelohanellus_
-###### *Thelohanellus kitauei*
+###### _Thelohanellus_
+####### *Thelohanellus kitauei*
 
 **Note: this assembly is based on Illumina+454 reads** 
 
@@ -125,8 +127,8 @@ Current number of species: 6<br>Last updated: 25 Dec 2025
 <br><br><br><br>
 
 #### Marine Myxozoa
-##### _Kudoa_
-###### *Kudoa neothunni*
+###### _Kudoa_
+####### *Kudoa neothunni*
 **Note: this assembly is based on PacBio and HiC reads**  
 
 | Database\Accession  | Bioproject | Genome assembly | Annotation | Transcriptome assembly | Mitochondrial genome | rRNA cluster |
@@ -143,7 +145,7 @@ Current number of species: 6<br>Last updated: 25 Dec 2025
 **Note: the mitochondrial genome is not annotated** 
 <hr class='Species'>
 
-###### *Kudoa sp. trachurus*
+####### *Kudoa sp. trachurus*
 **Note: this assembly is based on PacBio reads**  
 
 | Database\Accession  | Bioproject | Genome assembly | Annotation | Transcriptome assembly | Mitochondrial genome | rRNA cluster |
