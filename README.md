@@ -25,6 +25,7 @@ Current number of species: 3<br>Last updated: 25 Dec 2025
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Marine Myxozoa](#Marine-Myxozoa)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[_Kudoa_](#kudoa)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Kudoa neothunni](#kudoa-neothunni)* (Genome Assembly, Predicted Genes, Predicted Proteins)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Kudoa neothunni](#kudoa-neothunni)* (Genome Assembly, Predicted Genes, Predicted Proteins)<br>
 
 <br><br>
 # Endocnidozoa
@@ -121,7 +122,7 @@ Current number of species: 3<br>Last updated: 25 Dec 2025
 
 
 
-
+<br><br><br><br>
 
 #### Marine Myxozoa
 ##### _Kudoa_
