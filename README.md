@@ -20,6 +20,8 @@ Current number of species: 3<br>Last updated: 25 Dec 2025
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[_Myxobolus_](#myxobolus)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Myxobolus honghuensis](#myxobolus-honghuensis)* (Genome Assembly, Annotation, Transcriptome assembly, Mitochondrial genome, rRNA cluster)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Myxobolus rasmusseni](#myxobolus-rasmusseni)* (Genome Assembly, Annotation, Mitochondrial genome)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[_Thelohanellus_](#thelohanellus)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Thelohanellus kitauei](#thelohanellus-kitauei)* (Genome Assembly+Annotation, Transcriptome assembly, rRNA cluster)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Marine Myxozoa](#Marine-Myxozoa)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[_Kudoa_](#kudoa)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Kudoa neothunni](#kudoa-neothunni)* (Genome Assembly, Predicted Genes, Predicted Proteins)<br>
@@ -32,7 +34,7 @@ Current number of species: 3<br>Last updated: 25 Dec 2025
 ##### _Henneguya_
 ###### *Henneguya salminicola*
 
-**note the PacBio data is in progress** 
+**Note: this is an Illumina assembly; the PacBio data is in progress** 
 
 | Database\Accession  | Bioproject | Genome assembly + annotation | Transcriptome assembly | Mitochondrial genome | rRNA cluster |
 | ------------- | ------------- |------------- |------------- |------------- |------------- |
@@ -46,12 +48,14 @@ Current number of species: 3<br>Last updated: 25 Dec 2025
 <a href='https://www.ncbi.nlm.nih.gov/nuccore/OY756916'></a>- [rRNA cluster](https://www.ncbi.nlm.nih.gov/nuccore/OY756916)		Publication: Sandberg, et al.	2024	 DOI: [10.1186/s12864-024-10254-w](https://doi.org/10.1186/s12864-024-10254-w)
 
 
-**note this species has lost its mitochondrial genome** 
+**Note: this species has lost its mitochondrial genome** 
 
 <hr class='Species'>
 
 ##### _Myxobolus_
 ###### *Myxobolus honghuensis*
+
+**Note: this assembly is based on PacBio reads**  
 
 | Database\Accession  | Bioproject | Genome assembly | Annotation | Transcriptome assembly | Mitochondrial genome | rRNA cluster |
 | ------------- | ------------- |------------- |------------- |------------- |------------- |------------- |
@@ -73,25 +77,51 @@ Current number of species: 3<br>Last updated: 25 Dec 2025
 
 <a href='https://www.ncbi.nlm.nih.gov/nuccore/OY751525'></a>- [rRNA cluster](https://www.ncbi.nlm.nih.gov/nuccore/OY751525)		Publication: Sandberg, et al.	2024	 DOI: [10.1186/s12864-024-10254-w](https://doi.org/10.1186/s12864-024-10254-w)
 
-**Note: The raw data of Guo et al. 2022 are deposited in NCBI but not the latest assembly!!!** 
+**Note: The raw data of Guo et al. 2022 are deposited in NCBI, but not the latest assembly!!!** 
 
 
 <hr class='Species'>
 
 ###### *Myxobolus rasmusseni*
 
+**Note: this assembly is based on Nanopore reads**  
+
 | Database\Accession  | Bioproject | Genome assembly | Annotation | Transcriptome assembly | Mitochondrial genome | rRNA cluster |
 | ------------- | ------------- |------------- |------------- |------------- |------------- |------------- |
-| NCBI | [PRJNA1126311](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1126311) | [GCA_041296195](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_041296195/) | <a href='https://osf.io/r3ecp/'></a>[Deposited in OSF](https://osf.io/r3ecp/) |  |  |  |
+| NCBI | [PRJNA1126311](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1126311) | [GCA_041296195](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_041296195/) | <a href='https://osf.io/r3ecp/'></a>[Deposited in OSF](https://osf.io/r3ecp/) |  |  | <a href='https://www.ncbi.nlm.nih.gov/nuccore/NC_086770'></a>[NC_086770] |
 
 
 <a href='https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_041296195'></a>- [Genome Assembly](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_041296195/)		Publication: Muthye, et al.	2024	 DOI: [10.1093/gbe/evae220](https://doi.org/doi:10.1093/gbe/evae220)
 
-<a href='https://osf.io/r3ecp/'></a>[Annotation](https://osf.io/r3ecp/)		Publication: Muthye, et al.	2024	 DOI: [10.1093/gbe/evae220](https://doi.org/doi:10.1093/gbe/evae220)
+<a href='https://osf.io/r3ecp/'></a>- [Annotation] (tip, click on genome)(https://osf.io/r3ecp/)		Publication: Muthye, et al.	2024	 DOI: [10.1093/gbe/evae220](https://doi.org/doi:10.1093/gbe/evae220)
 
-<a href='https://osf.io/r3ecp/'></a>[Predicted proteins](https://osf.io/r3ecp/)		Publication: Muthye, et al.	2024	 DOI: [10.1093/gbe/evae220](https://doi.org/doi:10.1093/gbe/evae220)
+<a href='https://osf.io/r3ecp/'></a>- [Predicted proteins] (tip, click on genome)(https://osf.io/r3ecp/)		Publication: Muthye, et al.	2024	 DOI: [10.1093/gbe/evae220](https://doi.org/doi:10.1093/gbe/evae220)
+
+**Note: The assembly deposited in NCBI is different from the assembly deposited in OSF; the annotation is only valid for the assembly deposited in OSF!!!** 
 
 <hr class='Species'>
+
+##### _Thelohanellus_
+###### *Thelohanellus kitauei*
+
+**Note: this assembly is based on Illumina+454 reads** 
+
+| Database\Accession  | Bioproject | Genome assembly + annotation | Transcriptome assembly | Mitochondrial genome | rRNA cluster |
+| ------------- | ------------- |------------- |------------- |------------- |------------- |
+| NCBI | [PRJNA193083](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA193083) | <a href='https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_000827895'></a>[GCA_000827895](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_000827895) |   |   |   |
+| NCBI | [PRJEB53887](https://www.ncbi.nlm.nih.gov/bioproject/PRJEB53887) |   |  |  | <a href='https://www.ncbi.nlm.nih.gov/nuccore/OY743233'></a>[OY743233](https://www.ncbi.nlm.nih.gov/nuccore/OY743233)/<a href='https://www.ncbi.nlm.nih.gov/nuccore/NC_086769'></a>[NC_086769](https://www.ncbi.nlm.nih.gov/nuccore/NC_086769) |  <a href='https://www.ncbi.nlm.nih.gov/nuccore/OY751528'></a>[OY751528](https://www.ncbi.nlm.nih.gov/nuccore/OY751528) |
+<br>
+
+<a href='https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_009887335'></a>- [Genome assembly and annotation](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_009887335)		Publication: Yang, et al.	2014	 DOI: [10.1093/gbe/evu247](https://doi.org/10.1093/gbe/evu247)
+
+<a href='https://www.ncbi.nlm.nih.gov/nuccore/OY743233'></a>- [Mitochondrial genome](https://www.ncbi.nlm.nih.gov/nuccore/OY743233)		Publication: Sandberg, et al.	2024	 DOI: [10.1186/s12864-024-10254-w](https://doi.org/10.1186/s12864-024-10254-w)
+
+<a href='https://www.ncbi.nlm.nih.gov/nuccore/OY751528'></a>- [rRNA cluster](https://www.ncbi.nlm.nih.gov/nuccore/OY751528)		Publication: Sandberg, et al.	2024	 DOI: [10.1186/s12864-024-10254-w](https://doi.org/10.1186/s12864-024-10254-w)
+
+
+
+
+
 
 #### Marine Myxozoa
 ##### _Kudoa_
