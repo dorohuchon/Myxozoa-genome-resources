@@ -93,9 +93,9 @@ Current number of species: 3<br>Last updated: 25 Dec 2025
 
 <a href='https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_041296195'></a>- [Genome Assembly](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_041296195/)		Publication: Muthye, et al.	2024	 DOI: [10.1093/gbe/evae220](https://doi.org/doi:10.1093/gbe/evae220)
 
-<a href='https://osf.io/r3ecp/'></a>- [Annotation] (tip, click on genome)(https://osf.io/r3ecp/)		Publication: Muthye, et al.	2024	 DOI: [10.1093/gbe/evae220](https://doi.org/doi:10.1093/gbe/evae220)
+<a href='https://osf.io/r3ecp/'></a>- [Annotation](https://osf.io/r3ecp/)	(tip, click on genome) 	Publication: Muthye, et al.	2024	 DOI: [10.1093/gbe/evae220](https://doi.org/doi:10.1093/gbe/evae220)
 
-<a href='https://osf.io/r3ecp/'></a>- [Predicted proteins] (tip, click on genome)(https://osf.io/r3ecp/)		Publication: Muthye, et al.	2024	 DOI: [10.1093/gbe/evae220](https://doi.org/doi:10.1093/gbe/evae220)
+<a href='https://osf.io/r3ecp/'></a>- [Predicted proteins](https://osf.io/r3ecp/)	(tip, click on genome) 	Publication: Muthye, et al.	2024	 DOI: [10.1093/gbe/evae220](https://doi.org/doi:10.1093/gbe/evae220)
 
 **Note: The assembly deposited in NCBI is different from the assembly deposited in OSF; the annotation is only valid for the assembly deposited in OSF!!!** 
 
