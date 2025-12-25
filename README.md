@@ -109,7 +109,7 @@ Current number of species: 3<br>Last updated: 25 Dec 2025
 | Database\Accession  | Bioproject | Genome assembly + annotation | Transcriptome assembly | Mitochondrial genome | rRNA cluster |
 | ------------- | ------------- |------------- |------------- |------------- |------------- |
 | NCBI | [PRJNA193083](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA193083) | <a href='https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_000827895'></a>[GCA_000827895](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_000827895) |   |   |   |
-| NCBI | [PRJEB53887](https://www.ncbi.nlm.nih.gov/bioproject/PRJEB53887) |   |  |  | <a href='https://www.ncbi.nlm.nih.gov/nuccore/OY743233'></a>[OY743233](https://www.ncbi.nlm.nih.gov/nuccore/OY743233)/<a href='https://www.ncbi.nlm.nih.gov/nuccore/NC_086769'></a>[NC_086769](https://www.ncbi.nlm.nih.gov/nuccore/NC_086769) |  <a href='https://www.ncbi.nlm.nih.gov/nuccore/OY751528'></a>[OY751528](https://www.ncbi.nlm.nih.gov/nuccore/OY751528) |
+| NCBI | [PRJEB53887](https://www.ncbi.nlm.nih.gov/bioproject/PRJEB53887) |   |  | <a href='https://www.ncbi.nlm.nih.gov/nuccore/OY743233'></a>[OY743233](https://www.ncbi.nlm.nih.gov/nuccore/OY743233)/<a href='https://www.ncbi.nlm.nih.gov/nuccore/NC_086769'></a>[NC_086769](https://www.ncbi.nlm.nih.gov/nuccore/NC_086769) |  <a href='https://www.ncbi.nlm.nih.gov/nuccore/OY751528'></a>[OY751528](https://www.ncbi.nlm.nih.gov/nuccore/OY751528) |
 <br>
 
 <a href='https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_000827895'></a>- [Genome assembly and annotation](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_000827895)		Publication: Yang, et al.	2014	 DOI: [10.1093/gbe/evu247](https://doi.org/10.1093/gbe/evu247)
