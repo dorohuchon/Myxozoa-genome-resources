@@ -88,7 +88,7 @@ Current number of species: 3<br>Last updated: 25 Dec 2025
 
 | Database\Accession  | Bioproject | Genome assembly | Annotation | Transcriptome assembly | Mitochondrial genome | rRNA cluster |
 | ------------- | ------------- |------------- |------------- |------------- |------------- |------------- |
-| NCBI | [PRJNA1126311](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1126311) | [GCA_041296195](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_041296195/) | <a href='https://osf.io/r3ecp/'></a>[Deposited in OSF](https://osf.io/r3ecp/) |  |  | <a href='https://www.ncbi.nlm.nih.gov/nuccore/NC_086770'></a>[NC_086770] |
+| NCBI | [PRJNA1126311](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1126311) | [GCA_041296195](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_041296195/) | <a href='https://osf.io/r3ecp/'></a>[Deposited in OSF](https://osf.io/r3ecp/) |  |  |  |
 
 
 <a href='https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_041296195'></a>- [Genome Assembly](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_041296195/)		Publication: Muthye, et al.	2024	 DOI: [10.1093/gbe/evae220](https://doi.org/doi:10.1093/gbe/evae220)
