@@ -31,11 +31,11 @@ Current number of species: 10<br>Last updated: 21 April 2026
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[_Kudoa_](#kudoa)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Kudoa neothunni](#kudoa-neothunni)* (Genome Assembly, Annotation)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Kudoa sp. trachurus](#kudoa-sp-trachurus)* (Genome Assembly, Annotation)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[_Ellipsomyxa_](#Ellipsomyxa)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Ellipsomyxa sp. 70-BR2022](Ellipsomyxa-sp-70-BR2022)* (Genome Assembly, Transcripts and Proteome)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Ellipsomyxa sp. 115-BR2022](Ellipsomyxa-sp-115-BR2022)* (Genome Assembly, Transcripts and Proteome)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Unidentified samples](#Unidentified_samples)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Myxosporea sp. 108-BR2022](Myxosporea-sp-108-BR2022)* (Genome Assembly, Transcripts and Proteome)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*[_Ellipsomyxa_](#ellipsomyxa)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Ellipsomyxa sp. 70-BR2022](#ellipsomyxa-sp-70-br2022)* (Genome Assembly, Transcripts and Proteome)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Ellipsomyxa sp. 115-BR2022](#ellipsomyxa-sp-115-br2022)* (Genome Assembly, Transcripts and Proteome)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Unidentified samples](#unidentified-samples)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Myxosporea sp. 108-BR2022](#myxosporea-sp-108-br2022)* (Genome Assembly, Transcripts and Proteome)<br>
 	
 
 
@@ -204,7 +204,7 @@ Current number of species: 10<br>Last updated: 21 April 2026
 
 | Database\Accession  | Bioproject | Genome assembly | Annotation | Transcripts and predicted proteins | Mitochondrial genome | rRNA cluster |
 | ------------- | ------------- |------------- |------------- |------------- |------------- |------------- |
-| NCBI | [PRJNA1107121](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1126311) | [GCA_040938985](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_040938985/) | | [Deposited in GigaScience](https://doi.org/10.5524/102653)  | |  |
+| NCBI | [PRJNA1107121](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1107121) | [GCA_040938985](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_040938985/) | | [Deposited in GigaScience](https://doi.org/10.5524/102653)  | |  |
 
 
 <a href='https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_040938985'></a>- [Genome Assembly](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_040938985/)		Publication: Antonio Starcevic, et al.	2025	 DOI: [10.1093/gigascience/giaf014](https://doi.org/doi:10.1093/gigascience/giaf014)
@@ -222,7 +222,7 @@ Current number of species: 10<br>Last updated: 21 April 2026
 
 | Database\Accession  | Bioproject | Genome assembly | Annotation | Transcripts and predicted proteins | Mitochondrial genome | rRNA cluster |
 | ------------- | ------------- |------------- |------------- |------------- |------------- |------------- |
-| NCBI | [PRJNA1107121](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1126311) | [GCA_040938985](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_040938965/) | | [Deposited in GigaScience](https://doi.org/10.5524/102653) | |  |
+| NCBI | [PRJNA1107121](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1107121) | [GCA_040938965](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_040938965/) | | [Deposited in GigaScience](https://doi.org/10.5524/102653) | |  |
 
 
 <a href='https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_040938965'></a>- [Genome Assembly](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_040938965/)		Publication: Antonio Starcevic, et al.	2025	 DOI: [10.1093/gigascience/giaf014](https://doi.org/doi:10.1093/gigascience/giaf014)
@@ -240,7 +240,7 @@ Current number of species: 10<br>Last updated: 21 April 2026
 
 | Database\Accession  | Bioproject | Genome assembly | Annotation | Transcripts and predicted proteins | Mitochondrial genome | rRNA cluster |
 | ------------- | ------------- |------------- |------------- |------------- |------------- |------------- |
-| NCBI | [PRJNA1107121](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1126311) | [GCA_040939035](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_040939035/) | | [Deposited in GigaScience](https://doi.org/10.5524/102654) | |  |
+| NCBI | [PRJNA1107121](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1107121) | [GCA_040939035](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_040939035/) | | [Deposited in GigaScience](https://doi.org/10.5524/102654) | |  |
 
 
 <a href='https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_040939035'></a>- [Genome Assembly](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_040939035/)		Publication: Antonio Starcevic, et al.	2025	 DOI: [10.1093/gigascience/giaf014](https://doi.org/doi:10.1093/gigascience/giaf014)
