@@ -1,7 +1,7 @@
 # Myxozoa-genome-resources
 
-This is a collection of links to different myxozoan genomic datasets. <br>
-I only listed genomes sequenced with long reads (PacBio / Nanopore), _T. kitauei_ since it is a reference species and my favorite species _H. salminicola_.   
+This is a collection of links to different myxozoan genome datasets. <br>
+I only listed genomes sequenced with long reads (PacBio / Nanopore), I also included _T. kitauei_ since it is a reference species and my favorite species _H. salminicola_.   
 It is unlikely that this is a complete list so if I am missing something, or if you want me to add your favorite myxo please let me know.
 
 <br><br>
@@ -10,7 +10,7 @@ It is unlikely that this is a complete list so if I am missing something, or if 
 Contact: email: huchond @ tauex.tau.ac.il
 
 <br><br>
-Current number of species: 6<br>Last updated: 25 Dec 2025
+Current number of species: 10<br>Last updated: 21 April 2026
 <br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Endocnidozoa](#endocnidozoa)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Myxozoa](#myxozoa)<br>
