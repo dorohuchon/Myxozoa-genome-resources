@@ -23,6 +23,9 @@ Current number of species: 6<br>Last updated: 25 Dec 2025
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Myxobolus rasmusseni](#myxobolus-rasmusseni)* (Genome Assembly, Annotation, Mitochondrial genome)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[_Thelohanellus_](#thelohanellus)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Thelohanellus kitauei](#thelohanellus-kitauei)* (Genome Assembly+Annotation, Mitochondrial genome, rRNA cluster)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Sphaerosporid](#sphaerosporid)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[_Sphaerospora_](#Sphaerospora)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Sphaerospora molnari](#Sphaerospora-molnari)* (Genome Assembly, Mitochondrial genome, rRNA cluster)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Marine Myxozoa](#Marine-Myxozoa)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[_Kudoa_](#kudoa)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Kudoa neothunni](#kudoa-neothunni)* (Genome Assembly, Annotation)<br>
@@ -123,6 +126,28 @@ Current number of species: 6<br>Last updated: 25 Dec 2025
 
 <hr class='Species'>
 
+<br><br><br><br>
+
+### Sphaerosporid
+##### _Sphaerospora_
+###### *Sphaerospora molnari*
+**Note: this assembly is based on PacBio and HiC reads**  
+
+| Database\Accession  | Bioproject | Genome assembly | Annotation | Transcriptome assembly | Mitochondrial genome | rRNA cluster |
+| ------------- | ------------- |------------- |------------- |------------- |------------- |------------- |
+| NCBI | [PRJNA1193866](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1193866) | [GCA_046867295](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_046867295/) | Not deposited yet |  | PQ893892 | MK533682 |
+| NCBI | [PRJNA522909](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA522909) |  |  |  |  | MK533682 |
+
+<a href='[https://www.ncbi.nlm.nih.gov/datasets/genome/	GCA_046867295/]'></a>- [Genome Assembly](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_046867295/)		Publication: Kosakyan, et al.		 DOI: [10.1093/g3journal/jkaf061]([https://doi.org/10.64898/2026.02.11.705288])
+
+<a href='[https://www.ncbi.nlm.nih.gov/nuccore/PQ893892/]'></a>- [Mitochondrial genome](https://www.ncbi.nlm.nih.gov/nuccore/PQ893892/)		Publication: Kosakyan, et al.		 DOI: [10.1093/g3journal/jkaf061]([https://doi.org/10.64898/2026.02.11.705288])
+
+<a href='https://www.ncbi.nlm.nih.gov/nuccore/MK533682'></a>- [rRNA cluster](https://www.ncbi.nlm.nih.gov/nuccore/MK533682)		Publication: Hartigan, et al.	2024	 DOI: [10.1186/s12864-024-10254-w](https://doi.org/10.1186/s12864-020-6705-y)
+
+**Note: the genome annotation is only available for the mitochondrial genome** 
+<hr class='Species'>
+
+PRJNA522909
 
 <br><br><br><br>
 
