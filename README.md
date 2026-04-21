@@ -204,15 +204,15 @@ Current number of species: 6<br>Last updated: 25 Dec 2025
 
 | Database\Accession  | Bioproject | Genome assembly | Annotation | Transcripts and predicted proteins | Mitochondrial genome | rRNA cluster |
 | ------------- | ------------- |------------- |------------- |------------- |------------- |------------- |
-| NCBI | [PRJNA1107121](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1126311) | [GCA_040938985](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_040938985/) | |  | |  |
+| NCBI | [PRJNA1107121](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1126311) | [GCA_040938985](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_040938985/) | | [Deposited in GigaScience](https://doi.org/10.5524/102653)  | |  |
 
 
 <a href='https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_040938985'></a>- [Genome Assembly](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_040938985/)		Publication: Antonio Starcevic, et al.	2025	 DOI: [10.1093/gigascience/giaf014](https://doi.org/doi:10.1093/gigascience/giaf014)
 
 <a href='https://doi.org/10.5524/102653'></a>- [Transcripts and proteome](https://doi.org/10.5524/102653)	(tip, click on files) 	Publication: Antonio Starcevic, et al.	2025	 DOI: [10.1093/gigascience/giaf014](https://doi.org/doi:10.1093/gigascience/giaf014)
 
-**Note: GFF/GTF file have not been submitted**
-**Note: This assembly is very large for a marine myxozoa and present a high number of duplicated genes ** 
+**Note: GFF/GTF file have not been submitted** <br>
+**Note: This assembly is very large for a marine myxozoa and present a high number of duplicated genes** 
 
 <hr class='Species'>
 
@@ -222,7 +222,7 @@ Current number of species: 6<br>Last updated: 25 Dec 2025
 
 | Database\Accession  | Bioproject | Genome assembly | Annotation | Transcripts and predicted proteins | Mitochondrial genome | rRNA cluster |
 | ------------- | ------------- |------------- |------------- |------------- |------------- |------------- |
-| NCBI | [PRJNA1107121](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1126311) | [GCA_040938985](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_040938965/) | |  | |  |
+| NCBI | [PRJNA1107121](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1126311) | [GCA_040938985](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_040938965/) | | [Deposited in GigaScience](https://doi.org/10.5524/102653) | |  |
 
 
 <a href='https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_040938965'></a>- [Genome Assembly](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_040938965/)		Publication: Antonio Starcevic, et al.	2025	 DOI: [10.1093/gigascience/giaf014](https://doi.org/doi:10.1093/gigascience/giaf014)
@@ -240,7 +240,7 @@ Current number of species: 6<br>Last updated: 25 Dec 2025
 
 | Database\Accession  | Bioproject | Genome assembly | Annotation | Transcripts and predicted proteins | Mitochondrial genome | rRNA cluster |
 | ------------- | ------------- |------------- |------------- |------------- |------------- |------------- |
-| NCBI | [PRJNA1107121](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1126311) | [GCA_040939035](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_040939035/) | |  | |  |
+| NCBI | [PRJNA1107121](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1126311) | [GCA_040939035](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_040939035/) | | [Deposited in GigaScience](https://doi.org/10.5524/102654) | |  |
 
 
 <a href='https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_040939035'></a>- [Genome Assembly](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_040939035/)		Publication: Antonio Starcevic, et al.	2025	 DOI: [10.1093/gigascience/giaf014](https://doi.org/doi:10.1093/gigascience/giaf014)
