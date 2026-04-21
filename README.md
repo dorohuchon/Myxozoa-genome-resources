@@ -136,7 +136,7 @@ Current number of species: 6<br>Last updated: 25 Dec 2025
 | Database\Accession  | Bioproject | Genome assembly | Annotation | Transcriptome assembly | Mitochondrial genome | rRNA cluster |
 | ------------- | ------------- |------------- |------------- |------------- |------------- |------------- |
 | NCBI | [PRJNA1193866](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1193866) | [GCA_046867295](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_046867295/) | Not deposited yet |  | [PQ893892](https://www.ncbi.nlm.nih.gov/nuccore/PQ893892/) |  |
-| NCBI | [PRJNA522909](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA522909) |  |  | Not deposited |  | [MK533682](https://www.ncbi.nlm.nih.gov/nuccore/MK533682/) |
+| NCBI | [PRJNA522909](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA522909) |  |  | [Deposited in Dryad](https://doi.org/10.5061/dryad.j3tx95x9c) |  | [MK533682](https://www.ncbi.nlm.nih.gov/nuccore/MK533682/) |
 
 <a href='[https://www.ncbi.nlm.nih.gov/datasets/genome/	GCA_046867295/]'></a>- [Genome Assembly](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_046867295/)		Publication: Kosakyan, et al.		 DOI: [10.1093/g3journal/jkaf061](https://doi.org/10.64898/2026.02.11.705288)
 
