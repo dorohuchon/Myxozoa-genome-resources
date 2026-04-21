@@ -146,9 +146,9 @@ Current number of species: 10<br>Last updated: 21 April 2026
 | NCBI | [PRJNA1193866](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1193866) | [GCA_046867295](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_046867295/) | Not deposited yet |  | [PQ893892](https://www.ncbi.nlm.nih.gov/nuccore/PQ893892/) |  |
 | NCBI | [PRJNA522909](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA522909) |  |  | [Deposited in Dryad](https://doi.org/10.5061/dryad.j3tx95x9c) |  | [MK533682](https://www.ncbi.nlm.nih.gov/nuccore/MK533682/) |
 
-<a href='[https://www.ncbi.nlm.nih.gov/datasets/genome/	GCA_046867295/]'></a>- [Genome Assembly](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_046867295/)		Publication: Kosakyan, et al.		 DOI: [10.1093/g3journal/jkaf061](https://doi.org/10.64898/2026.02.11.705288)
+<a href='[https://www.ncbi.nlm.nih.gov/datasets/genome/	GCA_046867295/]'></a>- [Genome Assembly](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_046867295/)		Publication: Kosakyan, et al. 2026		 DOI: [BioRxiv](https://doi.org/10.64898/2026.02.11.705288)
 
-<a href='[https://www.ncbi.nlm.nih.gov/nuccore/PQ893892/]'></a>- [Mitochondrial genome](https://www.ncbi.nlm.nih.gov/nuccore/PQ893892/)		Publication: Kosakyan, et al.		 DOI: [10.1093/g3journal/jkaf061](https://doi.org/10.64898/2026.02.11.705288)
+<a href='[https://www.ncbi.nlm.nih.gov/nuccore/PQ893892/]'></a>- [Mitochondrial genome](https://www.ncbi.nlm.nih.gov/nuccore/PQ893892/)		Publication: Kosakyan, et al. 2026		 DOI: [BioRxiv](https://doi.org/10.64898/2026.02.11.705288)
 
 <a href='https://www.ncbi.nlm.nih.gov/nuccore/MK533682'></a>- [rRNA cluster](https://www.ncbi.nlm.nih.gov/nuccore/MK533682)		Publication: Hartigan, et al.	2024	 DOI: [10.1186/s12864-024-10254-w](https://doi.org/10.1186/s12864-020-6705-y)
 
