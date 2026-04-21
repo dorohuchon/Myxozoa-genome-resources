@@ -3,6 +3,7 @@
 This is a collection of links to different myxozoan genomic datasets. <br>
 I only listed genomes sequenced with long reads (PacBio / Nanopore), _T. kitauei_ since it is a reference species and my favorite species _H. salminicola_.   
 It is unlikely that this is a complete list so if I am missing something, or if you want me to add your favorite myxo please let me know.
+
 <br><br>
 *Contributors:*
 - Dorothee Huchon, 
@@ -30,6 +31,13 @@ Current number of species: 6<br>Last updated: 25 Dec 2025
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[_Kudoa_](#kudoa)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Kudoa neothunni](#kudoa-neothunni)* (Genome Assembly, Annotation)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Kudoa sp. trachurus](#kudoa-sp-trachurus)* (Genome Assembly, Annotation)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[_Ellipsomyxa_](#Ellipsomyxa)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Ellipsomyxa sp. 70-BR2022](Ellipsomyxa-sp-70-BR2022)* (Genome Assembly, Transcripts and Proteome)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Ellipsomyxa sp. 115-BR2022](Ellipsomyxa-sp-115-BR2022)* (Genome Assembly, Transcripts and Proteome)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Unidentified samples](#Unidentified_samples)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *[Myxosporea sp. 108-BR2022](Myxosporea-sp-108-BR2022)* (Genome Assembly, Transcripts and Proteome)<br>
+	
+
 
 <br><br>
 # Endocnidozoa
@@ -186,6 +194,61 @@ Current number of species: 6<br>Last updated: 25 Dec 2025
 <a href='[https://www.ncbi.nlm.nih.gov/nuccore/OZ195523/]'></a>- [Mitochondrial genome](https://www.ncbi.nlm.nih.gov/nuccore/OZ195523/)		Publication: Webber, et al.		 DOI: [10.1093/g3journal/jkaf061](https://doi.org/10.1093/g3journal/jkaf061)
 
 **Note: the mitochondrial genome is not annotated** 
+<hr class='Species'>
+
+
+##### _Ellipsomyxa_
+###### *Ellipsomyxa sp. 70-BR2022*
+
+**Note: this assembly is based on Nanopore reads**  
+
+| Database\Accession  | Bioproject | Genome assembly | Annotation | Transcripts and predicted proteins | Mitochondrial genome | rRNA cluster |
+| ------------- | ------------- |------------- |------------- |------------- |------------- |------------- |
+| NCBI | [PRJNA1107121](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1126311) | [GCA_040938985](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_040938985/) | |  | |  |
+
+
+<a href='https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_040938985'></a>- [Genome Assembly](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_040938985/)		Publication: Antonio Starcevic, et al.	2025	 DOI: [10.1093/gigascience/giaf014](https://doi.org/doi:10.1093/gigascience/giaf014)
+
+<a href='https://doi.org/10.5524/102653'></a>- [Transcripts and proteome](https://doi.org/10.5524/102653)	(tip, click on files) 	Publication: Antonio Starcevic, et al.	2025	 DOI: [10.1093/gigascience/giaf014](https://doi.org/doi:10.1093/gigascience/giaf014)
+
+**Note: GFF/GTF file have not been submitted**
+**Note: This assembly is very large for a marine myxozoa and present a high number of duplicated genes ** 
+
+<hr class='Species'>
+
+###### *Ellipsomyxa sp. 115-BR2022*
+
+**Note: this assembly is based on Nanopore reads**  
+
+| Database\Accession  | Bioproject | Genome assembly | Annotation | Transcripts and predicted proteins | Mitochondrial genome | rRNA cluster |
+| ------------- | ------------- |------------- |------------- |------------- |------------- |------------- |
+| NCBI | [PRJNA1107121](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1126311) | [GCA_040938985](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_040938965/) | |  | |  |
+
+
+<a href='https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_040938965'></a>- [Genome Assembly](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_040938965/)		Publication: Antonio Starcevic, et al.	2025	 DOI: [10.1093/gigascience/giaf014](https://doi.org/doi:10.1093/gigascience/giaf014)
+
+<a href='https://doi.org/10.5524/102653'></a>- [Transcripts and proteome](https://doi.org/10.5524/102653)	(tip, click on files) 	Publication: Antonio Starcevic, et al.	2025	 DOI: [10.1093/gigascience/giaf014](https://doi.org/doi:10.1093/gigascience/giaf014)
+
+**Note: GFF/GTF file have not been submitted**
+
+<hr class='Species'>
+
+##### Unidentified samples
+###### *Myxosporea sp. 108-BR2022*
+
+**Note: this assembly is based on Nanopore reads**  
+
+| Database\Accession  | Bioproject | Genome assembly | Annotation | Transcripts and predicted proteins | Mitochondrial genome | rRNA cluster |
+| ------------- | ------------- |------------- |------------- |------------- |------------- |------------- |
+| NCBI | [PRJNA1107121](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1126311) | [GCA_040939035](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_040939035/) | |  | |  |
+
+
+<a href='https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_040939035'></a>- [Genome Assembly](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_040939035/)		Publication: Antonio Starcevic, et al.	2025	 DOI: [10.1093/gigascience/giaf014](https://doi.org/doi:10.1093/gigascience/giaf014)
+
+<a href='https://doi.org/10.5524/102654'></a>- [Transcripts and proteome](https://doi.org/10.5524/102654)	(tip, click on files) 	Publication: Antonio Starcevic, et al.	2025	 DOI: [10.1093/gigascience/giaf014](https://doi.org/doi:10.1093/gigascience/giaf014)
+
+**Note: GFF/GTF file have not been submitted**
+
 <hr class='Species'>
 
 
