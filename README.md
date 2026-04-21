@@ -131,16 +131,16 @@ Current number of species: 6<br>Last updated: 25 Dec 2025
 ### Sphaerosporid
 ##### _Sphaerospora_
 ###### *Sphaerospora molnari*
-**Note: this assembly is based on PacBio and HiC reads**  
+**Note: this assembly is based on Nanopore reads**  
 
 | Database\Accession  | Bioproject | Genome assembly | Annotation | Transcriptome assembly | Mitochondrial genome | rRNA cluster |
 | ------------- | ------------- |------------- |------------- |------------- |------------- |------------- |
-| NCBI | [PRJNA1193866](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1193866) | [GCA_046867295](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_046867295/) | Not deposited yet |  | PQ893892 | MK533682 |
+| NCBI | [PRJNA1193866](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1193866) | [GCA_046867295](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_046867295/) | Not deposited yet |  | PQ893892 |  |
 | NCBI | [PRJNA522909](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA522909) |  |  |  |  | MK533682 |
 
-<a href='[https://www.ncbi.nlm.nih.gov/datasets/genome/	GCA_046867295/]'></a>- [Genome Assembly](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_046867295/)		Publication: Kosakyan, et al.		 DOI: [10.1093/g3journal/jkaf061]([https://doi.org/10.64898/2026.02.11.705288])
+<a href='[https://www.ncbi.nlm.nih.gov/datasets/genome/	GCA_046867295/]'></a>- [Genome Assembly](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_046867295/)		Publication: Kosakyan, et al.		 DOI: [10.1093/g3journal/jkaf061](https://doi.org/10.64898/2026.02.11.705288)
 
-<a href='[https://www.ncbi.nlm.nih.gov/nuccore/PQ893892/]'></a>- [Mitochondrial genome](https://www.ncbi.nlm.nih.gov/nuccore/PQ893892/)		Publication: Kosakyan, et al.		 DOI: [10.1093/g3journal/jkaf061]([https://doi.org/10.64898/2026.02.11.705288])
+<a href='[https://www.ncbi.nlm.nih.gov/nuccore/PQ893892/]'></a>- [Mitochondrial genome](https://www.ncbi.nlm.nih.gov/nuccore/PQ893892/)		Publication: Kosakyan, et al.		 DOI: [10.1093/g3journal/jkaf061](https://doi.org/10.64898/2026.02.11.705288)
 
 <a href='https://www.ncbi.nlm.nih.gov/nuccore/MK533682'></a>- [rRNA cluster](https://www.ncbi.nlm.nih.gov/nuccore/MK533682)		Publication: Hartigan, et al.	2024	 DOI: [10.1186/s12864-024-10254-w](https://doi.org/10.1186/s12864-020-6705-y)
 
@@ -161,11 +161,11 @@ PRJNA522909
 | NCBI | [PRJEB82086](https://www.ncbi.nlm.nih.gov/bioproject/PRJEB82086) Primary assembly| [GCA_964304625](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_964304625/) | <a href='[https://github.com/CobiontID/Kudoa_genomes/tree/main/gene_annotations]'></a>[Deposited in Github](https://github.com/CobiontID/Kudoa_genomes/tree/main/gene_annotations) |  | <a href='https://www.ncbi.nlm.nih.gov/nuccore/OZ199841'></a>[OZ199841](https://www.ncbi.nlm.nih.gov/nuccore/OZ199841) |  |
 | NCBI | [PRJEB82087](https://www.ncbi.nlm.nih.gov/bioproject/PRJEB82087) Alternate assembly| [GCA_964304655](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_964304655/) |  |  |  |  |
 
-<a href='[https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_964304625/]'></a>- [Genome Assembly](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_964304625/)		Publication: Webber, et al.		 DOI: [10.1093/g3journal/jkaf061]([https://doi.org/10.1093/g3journal/jkaf061])
+<a href='[https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_964304625/]'></a>- [Genome Assembly](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_964304625/)		Publication: Webber, et al.		 DOI: [10.1093/g3journal/jkaf061](https://doi.org/10.1093/g3journal/jkaf061)
 
-<a href='[https://github.com/CobiontID/Kudoa_genomes/tree/main/gene_annotations]'></a>- [Annotation](https://github.com/CobiontID/Kudoa_genomes/tree/main/gene_annotations)		Publication: Webber, et al.		 DOI: [10.1093/g3journal/jkaf061]([https://doi.org/10.1093/g3journal/jkaf061])
+<a href='[https://github.com/CobiontID/Kudoa_genomes/tree/main/gene_annotations]'></a>- [Annotation](https://github.com/CobiontID/Kudoa_genomes/tree/main/gene_annotations)		Publication: Webber, et al.		 DOI: [10.1093/g3journal/jkaf061](https://doi.org/10.1093/g3journal/jkaf061)
 
-<a href='[https://www.ncbi.nlm.nih.gov/nuccore/OZ199841/]'></a>- [Mitochondrial genome](https://www.ncbi.nlm.nih.gov/nuccore/OZ199841/)		Publication: Webber, et al.		 DOI: [10.1093/g3journal/jkaf061]([https://doi.org/10.1093/g3journal/jkaf061])
+<a href='[https://www.ncbi.nlm.nih.gov/nuccore/OZ199841/]'></a>- [Mitochondrial genome](https://www.ncbi.nlm.nih.gov/nuccore/OZ199841/)		Publication: Webber, et al.		 DOI: [10.1093/g3journal/jkaf061](https://doi.org/10.1093/g3journal/jkaf061)
 
 **Note: the mitochondrial genome is not annotated** 
 <hr class='Species'>
@@ -179,11 +179,11 @@ PRJNA522909
 | NCBI | [PRJNA1126311](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1126311) Alternate assembly| [GCA_964276805](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_964276805/) |  |  |  |  |
 | NCBI | [PRJEB81409](https://www.ncbi.nlm.nih.gov/bioproject/PRJEB81409) Mitochondrial assembly| [GCA_041296195](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_041296195/) |  |  | <a href='https://www.ncbi.nlm.nih.gov/nuccore/OZ195523'></a>[OZ195523](https://www.ncbi.nlm.nih.gov/nuccore/OZ195523) |  |
 
-<a href='[https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_964275015/]'></a>- [Genome Assembly](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_964275015/)		Publication: Webber, et al.		 DOI: [10.1093/g3journal/jkaf061]([https://doi.org/10.1093/g3journal/jkaf061])
+<a href='[https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_964275015/]'></a>- [Genome Assembly](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_964275015/)		Publication: Webber, et al.		 DOI: [10.1093/g3journal/jkaf061](https://doi.org/10.1093/g3journal/jkaf061)
 
-<a href='[https://github.com/CobiontID/Kudoa_genomes/tree/main/gene_annotations]'></a>- [Annotation](https://github.com/CobiontID/Kudoa_genomes/tree/main/gene_annotations)		Publication: Webber, et al.		 DOI: [10.1093/g3journal/jkaf061]([https://doi.org/10.1093/g3journal/jkaf061])
+<a href='[https://github.com/CobiontID/Kudoa_genomes/tree/main/gene_annotations]'></a>- [Annotation](https://github.com/CobiontID/Kudoa_genomes/tree/main/gene_annotations)		Publication: Webber, et al.		 DOI: [10.1093/g3journal/jkaf061](https://doi.org/10.1093/g3journal/jkaf061)
 
-<a href='[https://www.ncbi.nlm.nih.gov/nuccore/OZ195523/]'></a>- [Mitochondrial genome](https://www.ncbi.nlm.nih.gov/nuccore/OZ195523/)		Publication: Webber, et al.		 DOI: [10.1093/g3journal/jkaf061]([https://doi.org/10.1093/g3journal/jkaf061])
+<a href='[https://www.ncbi.nlm.nih.gov/nuccore/OZ195523/]'></a>- [Mitochondrial genome](https://www.ncbi.nlm.nih.gov/nuccore/OZ195523/)		Publication: Webber, et al.		 DOI: [10.1093/g3journal/jkaf061](https://doi.org/10.1093/g3journal/jkaf061)
 
 **Note: the mitochondrial genome is not annotated** 
 <hr class='Species'>
