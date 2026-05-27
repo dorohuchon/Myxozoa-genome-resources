@@ -156,7 +156,7 @@ Current number of species: 10<br>Last updated: 21 April 2026
 
 <a href='https://www.ncbi.nlm.nih.gov/nuccore/MK533682'></a>- [rRNA cluster](https://www.ncbi.nlm.nih.gov/nuccore/MK533682)		Publication: Hartigan, et al.	2024	 DOI: [10.1186/s12864-024-10254-w](https://doi.org/10.1186/s12864-020-6705-y)
 
-**Note: the genome annotation is only available for the mitochondrial genome** 
+**Note: Gene annotation is only available for the mitochondrial genome** 
 <hr class='Species'>
 
 
