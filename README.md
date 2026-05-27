@@ -52,12 +52,10 @@ Current number of species: 10<br>Last updated: 21 April 2026
 
 | Database\Accession  | Bioproject | Genome assembly + annotation | Transcriptome assembly | Mitochondrial genome | rRNA cluster |
 | ------------- | ------------- |------------- |------------- |------------- |------------- |
-| Github (unpublished) | [Unpublished PacBio genome]([https://github.com/dorohuchon/Henneguya_salminicola_genome]) | <a href='https://github.com/dorohuchon/Henneguya_salminicola_genome'></a>[Unpublished](https://github.com/dorohuchon/Henneguya_salminicola_genome) | | lost | |
+| Github (unpublished) | [Unpublished PacBio genome]([https://github.com/dorohuchon/Henneguya_salminicola_genome]) | <a href='https://github.com/dorohuchon/Henneguya_salminicola_genome'></a>[Unpublished](https://github.com/dorohuchon/Henneguya_salminicola_genome) |-| lost |-|
 | NCBI | [PRJNA485580](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA485580) | <a href='https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_009887335'></a>[GCA_009887335](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_009887335) | <a href='https://www.ncbi.nlm.nih.gov/nuccore/GHBP01000000'></a>[GHBP00000000](https://www.ncbi.nlm.nih.gov/nuccore/GHBP01000000) | lost | <a href='https://www.ncbi.nlm.nih.gov/nuccore/OY756916'></a>[OY756916](https://www.ncbi.nlm.nih.gov/nuccore/OY756916) |
 
 <br>
-<a href='https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_009887335'></a>- [Genome Assembly and annotation (Illumina)](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_009887335)		Publication: Yahalomi, et al.	2020	 DOI: [10.1073/pnas.1909907117](https://doi.org/10.1073/pnas.1909907117)
-
 
 <a href='https://github.com/dorohuchon/Henneguya_salminicola_genome'></a>- [Genome Assembly and annotation](https://github.com/dorohuchon/Henneguya_salminicola_genome)		Publication: Unpublished (Submitted to MBE).
 
