@@ -57,7 +57,7 @@ Current number of species: 10<br>Last updated: 21 April 2026
 
 <br>
 
-<a href='https://github.com/dorohuchon/Henneguya_salminicola_genome'></a>- [Genome Assembly and annotation](https://github.com/dorohuchon/Henneguya_salminicola_genome)		Publication: Unpublished (Submitted to MBE).
+<a href='https://github.com/dorohuchon/Henneguya_salminicola_genome'></a>- [Genome Assembly and annotation (PacBio)](https://github.com/dorohuchon/Henneguya_salminicola_genome)		Publication: Unpublished (Submitted to MBE).
 
 <a href='https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_009887335'></a>- [Genome Assembly and annotation (Illumina)](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_009887335)		Publication: Yahalomi, et al.	2020	 DOI: [10.1073/pnas.1909907117](https://doi.org/10.1073/pnas.1909907117)
 
